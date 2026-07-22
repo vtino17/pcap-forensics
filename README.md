@@ -1,5 +1,10 @@
 # PCAP Forensics
 
+[![License](https://img.shields.io/badge/License-MIT-22AA55?style=flat-square)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/vtino17/pcap-forensics?style=flat-square)](https://github.com/vtino17/pcap-forensics/stargazers)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square)](https://python.org)
+[![Last Commit](https://img.shields.io/github/last-commit/vtino17/pcap-forensics?style=flat-square)](https://github.com/vtino17/pcap-forensics/commits)
+
 Command-line forensic analysis tool for network packet captures. Designed for incident responders and security analysts who need to quickly extract indicators from PCAP files without a full SIEM pipeline.
 
 ## Features
