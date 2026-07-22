@@ -1,3 +1,6 @@
+# pcap-forensics
+
+[![CI](https://img.shields.io/github/actions/workflow/status/vtino17/pcap-forensics/ci.yml?style=flat-square&label=CI)](https://github.com/vtino17/pcap-forensics/actions)
 # PCAP Forensics
 
 [![License](https://img.shields.io/badge/License-MIT-22AA55?style=flat-square)](LICENSE)
@@ -77,3 +80,4 @@ pytest tests/
 ## License
 
 MIT
+
