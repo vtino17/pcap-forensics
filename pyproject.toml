@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pcap-forensics"
+version = "1.0.0"
+description = "Command-line PCAP forensic analysis tool for incident responders"
+requires-python = ">=3.10"
+dependencies = [
+    "scapy>=2.5.0",
+]
+
+[project.scripts]
+pcap-forensics = "pcap_forensics.main:entry_point"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
