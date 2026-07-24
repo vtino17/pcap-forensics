@@ -1,8 +1,1 @@
-*.pyc
-__pycache__/
-*.egg-info/
-dist/
-build/
-.pytest_cache/
-reports/
-*.cap
+*.pcap\n*.cap\n*.dump\n__pycache__/\n*.pyc
